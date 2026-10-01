@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,yli2662,Li,Yunqing
 employee,cgsullivan,Sullivan,Catherine
 employee,lyu262,Yu,Lanxin
